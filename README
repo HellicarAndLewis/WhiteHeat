@@ -1,0 +1,55 @@
+White Heat
+
+An installation by Hellicar&Lewis.
+http://hellicarandlewis.com
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Requires a B&W Point Grey Camera (or compatible via dc1394)
+
+Inspired by Delicate Boundaries by Chris Sugrue:
+http://csugrue.com/delicateboundaries/
+
+Uses:
+
+ofxVideoGrabber by Pierre Proske
+
+Advanced video grabber for openFrameworks supporting multiple plug-in camera SDK's and a customisable GUI. The default SDK is one based on Libdc1394 and supports cameras using the IIDC/DCAM specifications. Libdc1394 SDK based on original code by Andreas Müller. GUI code based on code by Theo Watson and the openFrameworks community.
+
+http://code.google.com/p/digitalstarcode/
+http://www.digitalstar.net/
+http://www.hahakid.net/
+http://theowatson.com
+
+ofxFFT by Kyle McDonald
+
+http://code.google.com/p/kyle
+http://www.kylemcdonald.net/
+
+AppSettings by Todd Vanderlin
+
+http://toddvanderlin.com
+
+Boids port by Jeff Crouse
+http://www.jeffcrouse.info/how-tos/shiffman-meets-openframeworks/
+ported from Dan Shiffman’s Nature of Code site
+http://www.shiffman.net/teaching/nature/
+based on work by Craig Reynolds
+http://en.wikipedia.org/wiki/Boids
+
+CvWarpIntoMe example by Chris Sugrue
+http://csugrue.com/code/
+
+ofxFBOTexture originally by Zach Gage:
+http://www.openframeworks.cc/forum/viewtopic.php?t=371
+
+Rendermanager by Theo Watson:
+http://theowatson.com
+http://www.openframeworks.cc/forum/viewtopic.php?p=7291#p7291
+
+With contributions by Memo Atken and the rest of the OpenFrameworks community.
